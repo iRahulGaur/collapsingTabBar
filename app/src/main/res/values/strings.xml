@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CollapsingScrollBar</string>
+    <string name="desc">desc</string>
+    <string name="demo_text">There’s a book by Geoffrey A. Moore that I reference often when talking to clients about introducing emerging technologies into their digital ecosystems. “Crossing the Chasm” has been described as “the bible for bringing cutting-edge products to larger markets,” and Moore’s general argument from 2014 continues to ring true to me today. \n        His thesis about technologies like virtual reality (VR) is that there’s not just a gap, but a chasm between the early adopters and early majority. Moore correctly concludes that it’s incredibly challenging to achieve widespread adoption of new-to-world tech. \n        But while it has been widely accepted that VR will make it across that chasm eventually, it has a lot of things working against it; namely the need for people to purchase yet another device and incorporate it into their daily lives. As early as last year, about half of consumers reported that they did not plan on purchasing a VR headset, the most common reason being they didn’t see the value in buying one. </string>
+    <string name="settings">Settings</string>
+</resources>
