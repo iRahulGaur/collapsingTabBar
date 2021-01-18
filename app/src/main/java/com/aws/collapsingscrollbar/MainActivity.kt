@@ -35,9 +35,9 @@ class MainActivity : AppCompatActivity(), OnOffsetChangedListener {
         toolbar.title = "Group name"
         toolbar.subtitle = "user1, user2, user3, user4, user5"
 
-        binding.mainCollapsingToolbarView.setExpandedTitleTextAppearance(R.style.MyStyle)
+        binding.mainCollapsingToolbarView.setExpandedTitleTextAppearance(R.style.MyStyle_White)
         binding.mainCollapsingToolbarView.setCollapsedTitleTextAppearance(R.style.MyStyleSmall)
-        binding.mainCollapsingToolbarView.setExpandedSubtitleTextAppearance(R.style.MyStyleSmall)
+        binding.mainCollapsingToolbarView.setExpandedSubtitleTextAppearance(R.style.MyStyleSmall_White)
         binding.mainCollapsingToolbarView.setCollapsedSubtitleTextAppearance(R.style.MyStyleSmall)
 
         binding.mainAppBarLayout.addOnOffsetChangedListener(OnOffsetChangedListener { _, verticalOffset ->
